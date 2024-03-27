@@ -19,7 +19,7 @@ My journey in information security is not just about personal growth; it's about
 I aim to play a part in creating a more secure digital environment for everyone.
 
 ## 📫 How to Reach Me
-Feel free to follow me on [GitHub](#) (your GitHub profile) to stay updated on my projects and adventures in information security.
+Feel free to follow me on [GitHub](#)to stay updated on my projects and adventures in information security.
 
 ---
 
