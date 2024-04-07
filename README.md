@@ -1,4 +1,4 @@
-# Hello, I'm sboutlend! 👋
+# Hello, I'm Souad Boutlendj! 👋
 
 ## 📚 About Me
 I'm currently a Master's student with a fervent passion for technology and its ever-evolving landscape, 
